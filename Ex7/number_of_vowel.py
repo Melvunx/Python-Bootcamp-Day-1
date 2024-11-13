@@ -10,4 +10,3 @@ def number_of_vowel(c: str):
 
 print(f"Nombre de voyelles de bonjour: {number_of_vowel("bonjour")}")
 print(f"Nombre de voyelles de Salut: {number_of_vowel("Salut")}")
-print(f"Nombre de voyelles de kjdtjff: {number_of_vowel("kjdtjff")}")
